@@ -1,6 +1,6 @@
 version: "3.9"
-services:
-  worker:
+services:02
+  worker:03
     build: .
     volumes:
       - .:/code
@@ -9,5 +9,5 @@ services:
       - redis
   redis:
     image: redis
-volumes:
+volumes:2
   logvolume01: {}
