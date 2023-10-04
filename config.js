@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //40006
+//global.pairingNumber = "CB2ZM2W2" //40006
 
 global.mods = ['254794110821'] 
 global.prems = ['254794110821', '32460248586', '919398758484']
