@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'MULLAH NESH
+global.botname = 'MULLAH NESH'
 '
 global.premium = 'true'
 global.packname = 'NESHᴮᴼᵀ' 
