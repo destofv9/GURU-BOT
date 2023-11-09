@@ -8,14 +8,14 @@ import axios from 'axios'
 
 global.owner = [
   ['254794110821', 'NESH', true],
-  ['254794110821', 'NESH', true], 
+  ['254790627796', 'NESH', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "CB2ZM2W2" //40006
+//global.pairingNumber = "254794110821" //40006
 
 global.mods = ['254794110821'] 
-global.prems = ['254794110821', '254794110821', '254794110821']
+global.prems = ['254794110821', '254790627796', '254794110821']
 global.allowed = ['254794110821', '254794110821', '254794110821']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
